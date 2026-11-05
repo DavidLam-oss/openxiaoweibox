@@ -37,8 +37,6 @@ status: published
 
 第三层，懒加载。公众号的图片是滚到哪才加载到哪。如果你打开文章直接剪藏，根本没滚到底，后面的图插件根本没拿到。
 
-![[Wechat/published/attachments/7a738ea49cff5a2c52ac50c1bb0a5d59_MD5.jpg|400]]
-
 ---
 
 ## 剪藏前：先让图片全部加载出来
@@ -106,8 +104,6 @@ Image Auto Upload 这个插件做的事情是：你在笔记里粘贴或拖入�
 ![Obsidian 入门48：为什么剪藏到 Obsidian 的文章，图片过段时间就没了？ - 配图 7](/images/posts/Obsidian%20%E5%85%A5%E9%97%A848%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%89%AA%E8%97%8F%E5%88%B0%20Obsidian%20%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%8C%E5%9B%BE%E7%89%87%E8%BF%87%E6%AE%B5%E6%97%B6%E9%97%B4%E5%B0%B1%E6%B2%A1%E4%BA%86%EF%BC%9F/20260517141144271.webp)
 
 每一步都会自动替换笔记里的引用，图片始终正常显示，只是来源从别人的服务器变成了你的硬盘，再从你的硬盘变成了你的云端。
-
-![[Wechat/published/attachments/fadc35befae23311d0ef0a5e5ade9bff_MD5.jpg|400]]
 
 ---
 
