@@ -1,6 +1,7 @@
 ---
 title: Gemini system instruction 的优化
 date: "2025-09-13"
+slug: gemini-system-instruction-tuning
 excerpt: >-
   介绍 Gemini 的 Personal Context 功能更新，分享如何利用 Cursor 分析个人日记生成心理侧写，从而优化 System
   Instruction，让 AI 更懂你的个性。

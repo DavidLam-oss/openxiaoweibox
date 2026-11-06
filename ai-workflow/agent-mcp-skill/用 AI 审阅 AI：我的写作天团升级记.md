@@ -1,6 +1,7 @@
 ---
 title: 用 AI 审阅 AI：我的写作天团升级记
 date: "2025-12-11"
+slug: ai-review-ai-writing-team
 excerpt: AI 工作流用久了也会"卡"？让多个 AI 互相审阅后，我升级了主编、新增了试读官，还给它们装上了"记忆"。
 tags:
   - 效率工具

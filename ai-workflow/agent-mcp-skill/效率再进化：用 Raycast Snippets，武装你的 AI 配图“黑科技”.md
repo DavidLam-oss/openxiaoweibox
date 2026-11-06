@@ -1,6 +1,7 @@
 ---
 title: 效率再进化：用 Raycast Snippets，武装你的 AI 配图“黑科技”
 date: "2025-10-14"
+slug: raycast-snippets-ai-image
 excerpt: >-
   利用 Raycast Snippets 存储和全局调用超长 AI 配图 Prompt，解决复杂指令复制粘贴的效率瓶颈，实现“HTML 创意总监”等
   Prompt 的秒级触发。

@@ -1,6 +1,7 @@
 ---
 title: 如何让 Gemini 拥有关于“我”的专属记忆
 date: "2025-09-07"
+slug: gemini-memory-setup
 excerpt: >-
   分享一套让 Gemini 拥有长期记忆的实操方法：结合 Saved Info 功能、明确的“记住”指令以及“复盘+固化”策略，将其培养成懂你的专属 AI
   伙伴。
