@@ -1,6 +1,7 @@
 ---
 title: 为什么你的灵感总是跑丢？因为“打开 App”这三秒钟太长了
 date: "2025-12-15"
+slug: capture-inspiration-fast
 excerpt: 你是否也苦恼于灵感转瞬即逝？我发现只要消灭“打开 App”这三秒钟的摩擦力，写作素材就能自动生长出来。
 tags:
   - Obsidian

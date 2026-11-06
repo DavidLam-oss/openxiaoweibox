@@ -1,6 +1,7 @@
 ---
 title: "Obsidian记录生活：我配置了日记和周记模板"
 date: "2025-04-17"
+slug: obsidian-diary-weekly-template
 excerpt: "分享如何在 Obsidian 中配置日记和周记模板，实现日记自动插入周记、格式化命名以及标签管理，构建高效的个人记录系统。"
 tags:
   - Obsidian
