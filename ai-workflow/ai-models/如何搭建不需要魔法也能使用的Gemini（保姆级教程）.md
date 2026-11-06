@@ -1,6 +1,7 @@
 ---
 title: 如何搭建不需要魔法也能使用的Gemini（保姆级教程）
 date: "2025-10-30"
+slug: gemini-no-vpn-guide
 excerpt: >-
   手把手教你利用 Koyeb 免费部署 Gemini CLI 反代服务，配合 Google OAuth 认证，实现无需魔法、无频率限制地调用 Gemini
   API，并集成到 Cherry Studio 和手机端。

@@ -1,6 +1,7 @@
 ---
 title: （保姆级教程）Gemini 免魔法方案二：部署到 Zeabur
 date: "2025-11-04"
+slug: gemini-zeabur-deploy
 excerpt: 保姆级教程：手把手教你利用 Zeabur 平台部署 Gemini API 代理，解决 Koyeb 部署受限问题，实现免魔法访问 Gemini。
 tags:
   - AI模型

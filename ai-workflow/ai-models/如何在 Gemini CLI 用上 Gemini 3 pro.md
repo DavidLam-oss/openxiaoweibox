@@ -1,6 +1,7 @@
 ---
 title: 如何在 Gemini CLI 用上 Gemini 3 pro
 date: "2025-11-23"
+slug: gemini-cli-3-pro
 excerpt: >-
   详细介绍如何申请加入 Google Gemini CLI 的 waitlist，以便在终端中免费使用最新的 Gemini 3 Pro
   模型，并包含启用和切换模型的具体步骤。

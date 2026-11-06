@@ -1,6 +1,7 @@
 ---
 title: AI 时代，普通人怎么拥有自己的 API
 date: "2025-10-29"
+slug: own-your-api-guide
 excerpt: 普及 AI API 的概念与获取方式，重点推荐“硅基流动”聚合平台，帮助普通用户以更低成本、更便捷的方式管理和调用多种大模型 API。
 tags:
   - 效率工具
