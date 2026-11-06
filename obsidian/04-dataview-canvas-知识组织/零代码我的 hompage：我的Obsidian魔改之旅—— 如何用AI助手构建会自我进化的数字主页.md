@@ -1,6 +1,7 @@
 ---
 title: 零代码我的 hompage：我的Obsidian魔改之旅—— 如何用AI助手构建会自我进化的数字主页
 date: "2025-04-06"
+slug: obsidian-homepage-ai-build
 excerpt: >-
   分享如何作为零代码小白，利用 AI 辅助编写 DataviewJS 代码，结合 Homepage 和 Heatmap Tracker 插件，在
   Obsidian 中打造包含热力图、那年今日和随机推荐的“自我进化”数字主页。
