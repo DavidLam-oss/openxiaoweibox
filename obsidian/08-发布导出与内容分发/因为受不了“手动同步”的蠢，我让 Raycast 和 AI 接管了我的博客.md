@@ -1,6 +1,7 @@
 ---
 title: 因为受不了“手动同步”的蠢，我让 Raycast 和 AI 接管了我的博客
 date: "2025-12-06"
+slug: raycast-ai-blog-automation
 excerpt: 发完公众号还得手动同步 Blog？这种蠢事我再也不干了。看我如何用 Raycast + DeepSeek 把繁琐流程一键自动化，顺便戒掉“健忘症”。
 tags:
   - 效率工具
