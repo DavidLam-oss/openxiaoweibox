@@ -1,6 +1,7 @@
 ---
 title: 如何快速搭建自己的专属图床(Obsidian - 图床+Picgo+OB插件）
 date: "2025-03-13"
+slug: obsidian-private-image-bed
 excerpt: 手把手教你利用腾讯云 COS、PicGo 和 Obsidian 插件搭建专属图床，实现图片自动上传与链接替换，解决 Obsidian 图片分享难题。
 tags:
   - Obsidian

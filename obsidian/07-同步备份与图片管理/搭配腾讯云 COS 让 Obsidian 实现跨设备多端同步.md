@@ -1,6 +1,7 @@
 ---
 title: 搭配腾讯云 COS 让 Obsidian 实现跨设备多端同步
 date: "2025-03-30"
+slug: obsidian-cos-sync
 excerpt: >-
   详细介绍如何搭配腾讯云 COS 和 Remotely Save 插件，实现 Obsidian 笔记在 Mac、iPad、Android 和 iOS
   多端之间的低成本、高效率同步。
