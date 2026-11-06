@@ -1,6 +1,7 @@
 ---
 title: 告别单调！用AI工具打造吸睛的“Workflow Rotation”动画
 date: "2025-03-15"
+slug: ai-animation-workflow-rotation
 excerpt: >-
   手把手教你组合使用 FLUX、Pixverse 和 Vidu 等 AI 工具，制作 360° 旋转展示的“Workflow
   Rotation”动画，让你的产品或角色展示更具视觉冲击力。

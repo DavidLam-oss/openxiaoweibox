@@ -1,6 +1,7 @@
 ---
 title: 告别抽卡！我用 Nano Banana Pro 一键搞定了视频封面
 date: "2025-11-22"
+slug: nano-banana-video-cover
 excerpt: 介绍如何使用 Nano Banana Pro 结合提示词和真人照片，一键生成高质量、风格统一的视频封面，告别繁琐的“抽卡”式生图过程。
 tags:
   - 内容创作

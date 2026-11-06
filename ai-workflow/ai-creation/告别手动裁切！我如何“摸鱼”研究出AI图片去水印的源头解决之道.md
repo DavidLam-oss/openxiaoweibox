@@ -1,6 +1,7 @@
 ---
 title: 告别手动裁切！我如何“摸鱼”研究出AI图片去水印的源头解决之道
 date: "2025-10-21"
+slug: ai-image-watermark-removal
 excerpt: 分享如何通过“画布编辑”和“屏蔽网络请求”等技巧，在源头上解决即梦和 Nano Banana 生成图片的自带水印问题，告别繁琐的手动裁切。
 tags:
   - 内容创作

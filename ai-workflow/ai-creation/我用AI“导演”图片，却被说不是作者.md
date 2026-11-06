@@ -1,6 +1,7 @@
 ---
 title: 我用AI“导演”图片，却被说不是作者
 date: "2025-10-19"
+slug: ai-directed-image-authorship
 excerpt: 探讨 AI 时代“作者”的定义，并分享一套“导演式”AI 生图工作流（方案三），通过风格、光影、内容三个维度的精准指令，实现对 AI 生图的深度掌控。
 tags:
   - 内容创作

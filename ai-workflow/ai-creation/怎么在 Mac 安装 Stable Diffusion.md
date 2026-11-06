@@ -1,6 +1,7 @@
 ---
 title: 怎么在 Mac 安装 Stable Diffusion
 date: "2025-01-02"
+slug: install-stable-diffusion-mac
 excerpt: >-
   保姆级教程：手把手教你在 Mac 上安装 Stable Diffusion WebUI
   (Automatic1111)，涵盖环境配置、国内镜像加速及常见问题解决。
