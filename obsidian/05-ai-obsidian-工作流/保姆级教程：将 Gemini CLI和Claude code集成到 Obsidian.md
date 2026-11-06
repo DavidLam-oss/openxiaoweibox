@@ -1,6 +1,7 @@
 ---
 title: 保姆级教程：将 Gemini CLI和Claude code集成到 Obsidian
 date: "2025-11-23"
+slug: obsidian-gemini-claude-integration
 tags:
   - Obsidian
   - 效率工具

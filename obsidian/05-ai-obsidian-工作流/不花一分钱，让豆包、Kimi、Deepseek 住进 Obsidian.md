@@ -1,6 +1,7 @@
 ---
 title: 不花一分钱，让豆包、Kimi、Deepseek 住进 Obsidian
 date: 2026-01-18T00:00:00.000Z
+slug: obsidian-ai-models-local
 excerpt: >-
   我就想在 Obsidian 里免费用 AI，不想配 API，不想花钱。后来发现一个插件就能搞定——豆包生图、Kimi 总结长文、Deepseek
   写代码，各有所长，全都免费。
