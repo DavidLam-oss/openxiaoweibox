@@ -1,6 +1,7 @@
 ---
 title: Chat Memo - 让妈妈再也不用担心我的 AI 对话丢失了
 date: "2025-11-12"
+slug: chat-memo-ai-backup
 excerpt: >-
   推荐浏览器插件 Chat Memo，自动备份 ChatGPT、Gemini、Claude
   等平台的对话记录到本地，解决数据孤岛、迁移困难和账号不稳定的痛点，支持关键词搜索和导出。
