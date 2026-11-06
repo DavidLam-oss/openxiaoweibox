@@ -1,6 +1,7 @@
 ---
 title: 没有 Claude 账号，我也算是用上 Claude Code 了
 date: "2025-11-01"
+slug: claude-code-without-account
 excerpt: >-
   分享在没有 Claude 账号的情况下，通过开源项目 claude-code-now 配置 Minimax 等国产大模型 API，成功体验 Claude
   Code 强大编程能力的替代方案。
