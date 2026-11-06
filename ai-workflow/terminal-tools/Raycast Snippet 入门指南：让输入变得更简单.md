@@ -1,6 +1,7 @@
 ---
 title: Raycast Snippet 入门指南：让输入变得更简单
 date: "2025-09-06"
+slug: raycast-snippet-guide
 excerpt: 详细介绍 Raycast 的 Snippet 功能，通过设置快捷文本实现常用信息的秒级调用，大幅提升日常输入效率。
 tags:
   - 效率工具

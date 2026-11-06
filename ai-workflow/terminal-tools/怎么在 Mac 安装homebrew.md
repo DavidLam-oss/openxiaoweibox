@@ -1,6 +1,7 @@
 ---
 title: 怎么在 Mac 安装homebrew
 date: "2024-12-30"
+slug: mac-install-homebrew
 tags:
   - 苹果生态
   - 终端命令行

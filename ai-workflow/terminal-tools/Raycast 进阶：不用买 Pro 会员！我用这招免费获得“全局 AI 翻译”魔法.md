@@ -1,6 +1,7 @@
 ---
 title: Raycast 进阶：不用买 Pro 会员！我用这招免费获得“全局 AI 翻译”魔法
 date: "2025-10-26"
+slug: raycast-ai-translate-free
 excerpt: 揭秘如何通过配置自定义 API Key（如 Gemini），免费解锁 Raycast 的 AI 能力，并创建一个支持双向智能翻译的全局快捷指令。
 tags:
   - 效率工具

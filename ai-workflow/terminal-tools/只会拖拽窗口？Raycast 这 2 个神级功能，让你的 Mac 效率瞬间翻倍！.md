@@ -1,6 +1,7 @@
 ---
 title: 只会拖拽窗口？Raycast 这 2 个神级功能，让你的 Mac 效率瞬间翻倍！
 date: "2025-09-28"
+slug: raycast-pro-features
 excerpt: >-
   深入解析 Raycast 的两大窗口管理神技：尺寸循环（Cycling）和自定义场景布局（Window
   Layouts），助你告别繁琐拖拽，实现高效的窗口控制。

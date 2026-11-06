@@ -1,6 +1,7 @@
 ---
 title: Raycast 入门指南：macOS 上的效率神器
 date: "2025-09-06"
+slug: raycast-starter-guide
 excerpt: Raycast 新手入门指南，详细介绍其下载安装、基础设置（快捷键替换 Spotlight）、核心功能（快捷搜索、计算器、汇率换算等）及插件扩展优势。
 tags:
   - 效率工具
